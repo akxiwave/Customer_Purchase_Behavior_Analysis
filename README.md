@@ -91,4 +91,9 @@ Female customers lead across most lifestyle categories.
 | `Customer Data Analysis ppt.pdf` | Presentation with insights |
 | `PowerBI_Dashboard.pbix` | Power BI dashboard file |
 | `/images/*.png` | Dashboard snapshots |
+## 👨‍💼 Author / Contact
 
+**Akshath Shetty**
+
+📌 **LinkedIn:**  
+https://www.linkedin.com/in/akshath-shetty-updatedprofile/
